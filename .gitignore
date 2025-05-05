@@ -1,0 +1,20 @@
+# folder
+.vscode
+.models
+.model-broke-16-101epoch
+.data
+.models-10epoch
+.results
+.saved_plates
+.LR
+.debug
+# file type
+*.svg
+*.pyc
+*.pth
+*.pt
+*.t7
+*.caffemodel
+*.mat
+*.npy
+best.pt
